@@ -13,7 +13,7 @@
 
 #define CONFIG_FILE "Demon.conf"
 #define TUBE_DEMANDE "/tmp/tube_demande"
-#define BUFFER_SIZE 256
+#define BUFFER_SIZE 265
 
 ///Reste Sémaphores + Thread initalisation min thread
 
