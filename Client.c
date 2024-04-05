@@ -11,7 +11,7 @@
 #include <dirent.h>
 
 #define TUBE_DEMANDE "/tmp/tube_demande"
-#define BUFFER_SIZE 256
+#define BUFFER_SIZE 265
 char buffer[BUFFER_SIZE];
 
 
